@@ -2,10 +2,6 @@
 ### *Adaptive 2-Way Traffic Management with Sensor-Driven Flow*  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![SystemVerilog](https://img.shields.io/badge/Language-SystemVerilog-blue)](https://ieeexplore.ieee.org/document/7558047) [![FPGA Ready](https://img.shields.io/badge/FPGA-Ready-green)](#)
 
-> **"Let the lights think — not just blink."**  
-> A **real-world embedded control system** implemented in **SystemVerilog**, featuring a **4-state FSM**, **parameterized timers**, and **sensor-responsive traffic prioritization** — all in under 150 lines.
-
----
 
 ## Project Overview
 
